@@ -2,7 +2,7 @@
 title = "Welcome"
 +++
 
-Welcome!
+Welcome to blog.
 
 ## more details
 
