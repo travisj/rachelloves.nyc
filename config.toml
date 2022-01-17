@@ -30,3 +30,5 @@ nav = [
 footer_about = """
 about a home in brooklyn
 """
+
+img_post_width = 2160
