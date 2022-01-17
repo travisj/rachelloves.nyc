@@ -4,8 +4,6 @@ title = "Welcome"
 tags = ["welcome", "something", "nothing"]
 +++
 
-{{ img(path="static/images/IMG_5069.jpeg") }}
-
 Welcome to blog. 🤪
 
 ## more details
