@@ -1,5 +1,7 @@
 +++
 title = "Welcome"
+[taxonomies]
+tags = ["welcome", "something", "nothing"]
 +++
 
 Welcome to blog. 🤪
@@ -8,6 +10,6 @@ Welcome to blog. 🤪
 
 here are some things i'm going to share with you:
 
-* 🏡 house stuff
-* ⚡️ energy stuff
-* 👧 kid stuff
+- 🏡 house stuff
+- ⚡️ energy stuff
+- 👧 kid stuff

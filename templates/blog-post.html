@@ -9,6 +9,12 @@
     <link rel="prerender" href="{{ page.later.permalink }}">
   {% endif %}
 
+  {% if page.taxonomies.tags %}
+  {% for tag in page.taxonomies.tags %}
+    <link rel="prerender"  href="{{ get_taxonomy_url(kind="tags", name=tag) }}">
+  {% endfor %}
+  {% endif %}
+
   <script type="application/ld+json">
     {
       "@context": "https://schema.org",
@@ -74,7 +80,7 @@
         - 
         <span class="tags">
           {% for tag in page.taxonomies.tags %}
-            <a href="{{ get_taxonomy_url(kind="tags", name=tag) }}">{{ tag }}</a>
+            <a href="{{ get_taxonomy_url(kind="tags", name=tag) }}">#{{ tag }}</a>
           {% endfor %}
         </span>
       {% endif %}
