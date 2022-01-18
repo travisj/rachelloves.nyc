@@ -2,6 +2,17 @@
 template = "page.html"
 +++
 
-## Hello, and welcome to my blog.
+{{ img(path="static/2022/stoop-2.jpg")}}
+## Hello from Brooklyn!
 
-I'm going to share every last detail of our home Brooklyn renovation with you here!
+Follow along as we tell the story of our family and our old house as we work on removing all fossil fuels from our home and life. We will be renovating, electrifying everything, and optimizing our solar panel energy usage to acheive net zero living. (Producing as much solar energy in the year as we use in our home.) Is it possible? We think so, but we have a lot to learn!
+
+Also posting renovation and NYC updates here:
+
+**[@rachellovesnyc](https://www.instagram.com/rachellovesnyc/)** on Instagram
+
+And energy info and insights here:
+
+**[@netzerobrooklyn](https://www.instagram.com/netzerobrooklyn/)** on Instagram
+
+**[@netzerobrooklyn](https://twitter.com/netzerobrooklyn)** on Twitter
