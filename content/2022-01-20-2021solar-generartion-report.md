@@ -9,21 +9,21 @@ I already have some bad news. We were not "net zero" in 2021. Which means we use
 **The Details**
 
 Total 2021 Solar Generation:
-8,569 kWh
+**8,569 kWh**
 
 Additional energy we bought from ConEd:
-1,304 kWh *(used in Jan, Feb, and March)*
+**1,304 kWh** *(used in Jan, Feb, and March)*
 
 Total credits remaining at the end of 2021:
-831 kWh
+**831 kWh**
 
-Total Electric Energy Usage in 2021:
-9,042 kWh
+Total Electric Energy Use in 2021:
+**9,042 kWh**
 
 Excess energy Demand:
-473 kWh - BOO! 
+**473 kWh** - BOO! 
 
-{{ img(path="static/2022/2021energyusage.png") }}
+{{ img(path="static/2022/2021energyusage2.png") }}
 
 The excess solar energy we "banked" in the summer was NOT equivelent to the excess energy demand we needed last winter. (We did NOT start 2021 with any credits, even though the panels went up in July 2020.)
 
