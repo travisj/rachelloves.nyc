@@ -1,15 +1,16 @@
 +++
-title = "Welcome"
+title = "Welcome to the Energy Future!"
 [taxonomies]
 tags = ["welcome", "something", "nothing"]
 +++
 
-Welcome to blog. 🤪
+My name is Rachel. I live in Brooklyn. I am working to remove fossil fuels from my life. Follow along as I document how our family is transforming our home into a (hopefully) net zero, solar-powered, future machine! 
 
 ## more details
 
-here are some things i'm going to share with you:
+Some things I'm hoping to share with you:
 
-- 🏡 house stuff
-- ⚡️ energy stuff
-- 👧 kid stuff
+- home remodel progress
+- energy efficiency details
+- climate change science and news
+- family fun
