@@ -4,17 +4,17 @@ title="2021 Solar Generation and Energy Use Report"
 
 {{ img(path="static/2022/solarcanopy.jpg") }}
 
-I already have some bad news. We were not "net zero" in 2021. Which means we used more elctircity than our solar panels produced in the year. Ugh.
+I already have some bad news. We were not *net zero* in 2021. Which means we used more elctircity than our solar panels produced in the year. Ugh.
 
 **The Details**
 
 Total 2021 Solar Generation:
 **8,569 kWh**
 
-Additional energy we bought from ConEd:
+Additional energy we bought from [ConEd](https://www.coned.com/en/):
 **1,304 kWh** *(used in Jan, Feb, and March)*
 
-Total credits remaining at the end of 2021:
+Total net zero metering credits remaining at the end of 2021:
 **831 kWh**
 
 Total Electric Energy Use in 2021:
@@ -41,7 +41,7 @@ We are making big changes this year which will dramatically change our energy us
 
 If you convert 999 therms to kWh, it would be 29,270 kWh. More than THREE TIMES our yearly solar generation! AHHHHH! How do we bridge this gap and have any hope of becoming net zero?? 
 
-It will not be easy, but I am holding out hope. We plan to switch to all electric appliances: an electric heat pump HVAC system, electric heat pump water heater, heat pump laundry dryer, and an electric induction range. All of these appliences will be significantly more energy efficient than their fossil fuel powered counterparts. 
+It will not be easy, but I am holding out hope. We plan to switch to all electric appliances: an electric heat pump HVAC system, electric heat pump water heater, heat pump laundry dryer, and an electric induction range. All of these appliances will be significantly more energy efficient than their fossil fuel powered counterparts. 
 
 For example: Our current gas water heater takes an estimated 258 therms per year to operate. 258 therms roughly equals 7,559kwh of electricity - nearly our full solar production! Not good. BUT but but but! The [electric heat pump water heater](https://www.homedepot.com/p/Rheem-ProTerra-50-Gal-10-Year-Hybrid-High-Efficiency-Smart-Tank-Electric-Water-Heater-with-Leak-Detection-Auto-Shutoff-XE50T10HS45U0/312741462) of the same size (50 gallon) that we are looking at getting requires only 866 kWh to operate for the year! 
 
