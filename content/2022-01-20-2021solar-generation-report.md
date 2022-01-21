@@ -4,36 +4,36 @@ title="2021 Solar Generation and Energy Use Report"
 
 {{ img(path="static/2022/solarcanopy.jpg") }}
 
-I already have some bad news. We were not *net zero* in 2021. Which means we used more elctircity than our solar panels produced in the year. Ugh.
+I already have some bad news. We were not *net zero* in 2021. Which means we used more electricity than our solar panels produced in the year. Ugh.
 
 **The Details**
 
-Total 2021 Solar Generation:
+Total 2021 solar generation:
 **8,569 kWh**
 
 Additional energy we bought from [ConEd](https://www.coned.com/en/):
 **1,304 kWh** *(used in Jan, Feb, and March)*
 
-Total net zero metering credits remaining at the end of 2021:
+Total net metering credits remaining at the end of 2021:
 **831 kWh**
 
-Total Electric Energy Use in 2021:
+Total electric energy use in 2021:
 **9,042 kWh**
 
-Excess energy Demand:
+Excess energy demand:
 **473 kWh** - BOO! 
 
 {{ img(path="static/2022/2021energyusage2.png") }}
 
 The excess solar energy we "banked" in the summer was NOT equivelent to the excess energy demand we needed last winter. (We did NOT start 2021 with any credits, even though the panels went up in July 2020.)
 
-**Future Net Zero Implcations**
+**Future Net Zero Implications**
 
 Is it possible to reduce our electricity consumption by 5%?? I'm optimistic. In our current set up, absolutely! Turn off all the lights! 
 
-But one caveat: We travelled for all of July 2021. Usually, that would be a high demand energy month due to our mini split air conditioner usage. But we didn't run it at all that month and contributed a lot to our kWh "bank." 
+One caveat: We travelled for all of July 2021. Usually, that would be a high demand energy month due to our mini split air conditioner usage. But we didn't run it at all that month and contributed a lot to our kWh "bank." 
 
-But here is the real challenge of our **Brooklyn Net Zero Home**: 
+Here is the real challenge of our **Brooklyn Net Zero Home**: 
 
 We are making big changes this year which will dramatically change our energy use profile. We are removing natural gas from our home, which currently powers our radiator heat boiler, our gas laundry dryer, our water heater, and our cooking. That is ton of energy usage! 999 therms in 2021 to be exact. NooooOoo!! So much fossil fuel carbon being released into our atmosphere! Terrible.
 
