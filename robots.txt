@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://rachelloves.nyc/sitemap.xml
